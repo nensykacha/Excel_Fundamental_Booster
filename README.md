@@ -1,4 +1,4 @@
-# 🚀 PR. 1 Fundamental Booster - Excel Project
+# 🚀 PR. 1 Fundamental Booster - Excel Master Project
 
 This project is a comprehensive analytical tool designed to master Excel fundamentals and advanced dynamic data structures. It demonstrates the ability to manage complex datasets across multiple interconnected sheets.
 
@@ -51,6 +51,6 @@ Used the advanced `FILTER` function to create a real-time list of top-performing
 
 ---
 
-**Project Developed by:** Nensy Kacha
+**Project Developed by:** Nensy Kacha  
 **Technology:** Microsoft Excel (Office 365 / 2019)  
 **Date:** April 2026
