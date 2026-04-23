@@ -1,4 +1,4 @@
-# 🚀 PR. 1 Fundamental Booster - Excel Master Project
+# 🚀 PR. 1 Fundamental Booster - Excel Project
 
 This project is a comprehensive analytical tool designed to master Excel fundamentals and advanced dynamic data structures. It demonstrates the ability to manage complex datasets across multiple interconnected sheets.
 
